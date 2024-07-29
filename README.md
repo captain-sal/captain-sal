@@ -1,5 +1,5 @@
 # About Me:
-I'm a Computer Science major, a tech enthusiast, and a dedicated UX designer, combining technology and user-centered design to create seamless experiences. 👩‍💻🌟<br>- 🔭 I’m currently working on Frontend, ML-AI and UX designing.<br>- 🌱 I’m currently learning Backend and Computer vision.<br>- 👯 I’m looking to collaborate on interesting projects that align with my interests- design, frontend.<br>- ⚡ Fun fact: I love watching Marvel films.
+I'm a Computer Science major, a tech enthusiast, and a dedicated UX designer, combining technology and user-centered design to create seamless experiences. 👩‍💻🌟<br>- 🔭 I’m currently working on Frontend, ML-AI and UX designing.<br>- 🌱 I’m currently learning Backend and Computer vision.<br>- 👯 I’m looking to collaborate on interesting projects that align with my interests- design, frontend.<br>
 
 
 ## 🌐 Socials:
